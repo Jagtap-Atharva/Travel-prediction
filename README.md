@@ -10,6 +10,7 @@ we are bluilding the prediction model for the travel company who wants to plan t
 #We need to analyze the customers' data and information to provide recommendations to the Policy Maker and Marketing Team and also 
 #build a model to predict the potential customer who is going to purchase the newly introduced travel package.
 #task we have to solve:
-#1) To predict which customer is more likely to purchase the newly introduced travel package
-#2) Which variables are most significant.
-#3) Which segment of customers should be targeted more.
+
+1) To predict which customer is more likely to purchase the newly introduced travel package
+2) Which variables are most significant.
+3) Which segment of customers should be targeted more.
